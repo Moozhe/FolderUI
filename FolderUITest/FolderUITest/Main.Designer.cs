@@ -58,7 +58,7 @@ namespace FolderUITest
             this.ClientSize = new System.Drawing.Size(1051, 595);
             this.Controls.Add(this.formPRO1);
             this.Name = "Main";
-            this.Text = "Folder UI Test";
+            this.Text = "Folder UI Test V2";
             this.ResumeLayout(false);
 
         }
